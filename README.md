@@ -48,26 +48,33 @@ This is a simple Java-based game where a user competes against the computer in g
 1. Clone the repository:
    ```bash
    git clone https://github.com/GauravWeb-Dev/java-programming-codes.git
+
 Navigate to the project folder:
 bash
-Copy code
+
 cd GuesserGame
+
 Compile the Java file:
 bash
-Copy code
 javac GuesserGame.java
+
 Run the game:
 bash
-Copy code
 java GuesserGame
+--------------------------------------------------------------
+
 🎮 Sample Gameplay
 User decides to play 5 rounds.
 In Round 1, the computer selects 7. User guesses 5 (incorrect).
 Score: User: 0 | Computer: 1
+
 In Round 2, the computer selects 3. User guesses 3 (correct).
 Score: User: 1 | Computer: 1
+
 Final Scores after 5 rounds: User: 3 | Computer: 2.
 Result: User Wins! 🎉
+----------------------------------------------------------------
+
 🤝 Contribution
 Contributions are welcome! Feel free to fork the repository, make changes, and create a pull request.
 
